@@ -1,0 +1,4 @@
+__pycache__
+weights/*
+cropped_card/*
+text-detected/*
