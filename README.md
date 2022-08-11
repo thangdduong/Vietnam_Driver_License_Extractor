@@ -1,5 +1,5 @@
 # Vietnam Driver's License Information Extractor System
-
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/)
 ## Description
 This repo is mainly about building a Vietnam driver's license information extractor system. Only with a raw image of the driver's license, the program will recognize the desired information on the card (available on both front and back of the card) and print them on to the screen.
 
@@ -24,7 +24,7 @@ You should download all the files below and put them into `weights` folder:
 
 ## Usage
 To extract information from a given image, simply run `main.py` with image path:
-```
-python main.py -i /path/to/your/image
+```bash
+$ python main.py -i /path/to/your/image
 ```
 
