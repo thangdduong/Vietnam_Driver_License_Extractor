@@ -2,3 +2,5 @@ __pycache__
 weights/*
 cropped_card/*
 text-detected/*
+
+libs/yolov5/corners_detected_results
